@@ -26,6 +26,9 @@ numbers = [1, 2, 3, 4, 5]
 double = [num*num for num in numbers]
 print (double)
 
+friends =["pradeep", "santu", "dishu"]
+start_fromP= [frnd for frnd in friends if frnd.startswith("p")]
+print(start_fromP)
 #Alternatve
 new_double=[]
 for i in numbers:
