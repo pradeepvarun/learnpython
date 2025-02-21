@@ -2,7 +2,7 @@ boto3==1.36.25
 botocore==1.36.24
 certifi==2025.1.31
 charset-normalizer==3.4.1
-hvac==0.11.1
+hvac==2.3.0
 idna==3.10
 jmespath==1.0.1
 psycopg==3.2.3
